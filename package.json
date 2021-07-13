@@ -1,0 +1,40 @@
+{
+	"name": "@chance/tsconfig",
+	"version": "1.0.0",
+	"author": {
+		"name": "Chance Strickland",
+		"email": "hi@chance.dev",
+		"url": "https://chance.dev"
+	},
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chaance/tsconfig.git"
+	},
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	],
+	"bugs": {
+		"url": "https://github.com/chaance/tsconfig/issues"
+	},
+	"scripts": {},
+	"files": [
+		"README.md",
+		"CHANGELOG.md",
+		"tsconfig.json"
+	],
+	"engines": {
+		"node": ">=12"
+	},
+	"dependencies": {},
+	"main": "tsconfig.json",
+	"prettier": {
+		"useTabs": true,
+		"tabWidth": 2
+	}
+}
