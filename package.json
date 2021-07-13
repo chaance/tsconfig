@@ -22,6 +22,9 @@
 	"bugs": {
 		"url": "https://github.com/chaance/tsconfig/issues"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
 	"scripts": {},
 	"files": [
 		"README.md",
